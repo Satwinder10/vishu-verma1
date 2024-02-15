@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vishu verma
+- 👋 Hi, I’m tishu verma 
 - 👀 I’m interested in web programming and software development 
 - 🌱 I’m currently learning Backend development and Reactjs
 - 📫 How to reach me -> GitHub or LinkedIn 
